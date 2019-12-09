@@ -1,2 +1,2 @@
-# soft-2
+# Project: SOFT-2
 Rainbow Card Generator
